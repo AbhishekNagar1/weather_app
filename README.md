@@ -1,5 +1,11 @@
 # weatherapp
 
+<div align="center">
+  <a href="https://license-instructions.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚨-READ%20BEFORE%20FORKING-red?style=for-the-badge&labelColor=darkred" alt="Read Before Forking">
+  </a>
+</div>
+
 A new Flutter project.
 
 ## Getting Started
@@ -14,4 +20,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# weather_app
